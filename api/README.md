@@ -3,11 +3,27 @@
 <p align="center">Teste Backend InCicle</p>
 
 <p align="center">
+
+    <a href="#Docker">Docker</a> -
     <a href="#Sobre">Sobre</a> -
     <a href="#Cityes">CRUD Cidade</a> -
     <a href="#People">CRUD Pessoas</a> -
     <a href="#Teste">Testes</a>
 </p>
+
+
+
+
+
+# Docker
+<br>
+<h3>Docker</h3>
+<br>
+<p>Para iniciar o docker, basta executar o arquivo <strong>up.bat</strong> e para desligar, use o <strong>down.bat</strong></p>
+
+
+
+
 
 
 
